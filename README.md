@@ -64,9 +64,9 @@ Baixar Git: (https://gist.github.com/rxaviers/7360908)
 * 💥 Cuidado guardar bem a senha, pois não será exibida novamente.!!
 
 6. O editor de arquivos Markdown(.md), muito útil para o Github:
-
-* Typora - [Link para baixar Typora: (https://typora.io/)] 
-* Lista de emoticons:[(https://gist.github.com/rxaviers/7360908)]
+.
+* Typora - Link para baixar Typora <https://typora.io/>
+* Lista de emoticons: <https://gist.github.com/rxaviers/7360908>
 
 
 
