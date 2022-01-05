@@ -3,7 +3,7 @@ Repósitorio criado para desafio de projetos, incluindo todas as atividades da D
 
 🛰️ **Anotações importante adquerida em decorrer do curso.**
 
-# [Baixar Git: (https://gist.github.com/rxaviers/7360908)]
+Baixar Git: (https://gist.github.com/rxaviers/7360908)
 
 1. Alguns Comandos básicos e úteis usado no Git.
 
@@ -38,30 +38,30 @@ Repósitorio criado para desafio de projetos, incluindo todas as atividades da D
 
 4. **Criando chave SSH**
 
-      1.[ssh-keygen -t ed25519 -C cristiano.dpaulaxp@gmail.com]
-      2.Colocar uma senha
-      3.Apos gerar a chave visualizar a chave.
-      4.[Cat id_ed25519.pub (Chave publica)]
-      5.Copiar e colocar no Github
-      6.Validar chave
-      7.[eval $(ssh-agent -s)]
-      8.[ssh-add id_ed25519]
-      9.colocar a senha anterior
-      10.Clonar repositório
-      11.[git clone ( chave copia no github)]
+      1. **ssh-keygen -t ed25519 -C Seu e-mail pessoal**
+      2. Colocar uma senha
+      3. Apos gerar a chave visualizar a chave.
+      4. **Cat id_ed25519.pub (Chave publica**
+      5. Copiar e colocar no Github
+      6. Validar chave
+      7. **eval $(ssh-agent -s**
+      8. **ssh-add id_ed25519**
+      9. colocar a senha anterior
+      10. Clonar repositório
+      11. git clone ( chave copia no github)
       
-      * tudo pronto!🤝 Agora já pode usar todas as funcionalidades do git sem precisar se identificar o tempo todo.
+      * Tudo Certo.!!🤝 Agora já pode usar todas as funcionalidades do git sem precisar se identificar o tempo todo.
       
-      * Ops quase me esqueci rs. Tem que seguir todos passos 👏
+      * Ops quase me esqueci rs. Tem que seguir todos passos direitinho. 👏
       
-5.  **Criar Token de acesso pessoal** [!! Outro modo de autenticação de segurança.!!]
+5.  **Criar Token de acesso pessoal** (!! Outro modo de autenticação de segurança.!!)
 
 * No GitHub
-* [Developer settings // Personal accesss tokens // New token]
+* Developer settings // Personal accesss tokens // New token
 * Meu Token
 * Pode ser colocado um tempo de validade da chave.
 
-* [💥 Cuidado guardar bem a senha, pois não será exibida novamente.!!]
+* 💥 Cuidado guardar bem a senha, pois não será exibida novamente.!!
 
 6. O editor de arquivos Markdown(.md), muito útil para o Github:
 
